@@ -1,3 +1,8 @@
+## Seja bem vindo ! fique a vontade para saber mais sobre meus projetos 😊
+
+<p>Gosto de dar sempre o meu melhor em tudo o que eu faço, por isso sinta-se a vontade para dar feedback de melhorias para meus projetos,
+pois ainda estou iniciando como desenvolvedor e um dia vou me tornar um excelente profissional nessa área que eu amo muito que é a tecnologia.</p>
+
 <div>
   <a href="https://github.com/rafael-rodrigues01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafael-rodrigues01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
