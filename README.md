@@ -1,7 +1,7 @@
-## Seja bem vindo ! fique a vontade para saber mais sobre meus projetos 😊
 
-<p>Gosto de dar sempre o meu melhor em tudo o que eu faço, por isso sinta-se a vontade para dar feedback de melhorias para meus projetos,
-pois ainda estou iniciando como desenvolvedor e um dia vou me tornar um excelente profissional nessa área que eu amo muito que é a tecnologia.</p>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Rafael Rodrigues</h1>
+
+<p>I always like to give my best in everything I do, so feel free to give feedback on improvements to my projects, because I'm still starting as a developer and one day I will become an excellent professional in this area that I love much that is technology.</p>
 
 <div>
   <a href="https://github.com/rafael-rodrigues01">
