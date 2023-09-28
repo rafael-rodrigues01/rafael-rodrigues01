@@ -27,7 +27,7 @@
  
 <div> 
  
- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafaelrodriguesdev)
+ [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafaelrodriguesdev){:target="_blank"}
  
  
   ![Snake animation](https://github.com/rafael-rodrigues01/rafael-rodrigues01/blob/output/github-contribution-grid-snake.svg)
