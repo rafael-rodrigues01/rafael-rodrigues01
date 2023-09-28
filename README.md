@@ -1,5 +1,7 @@
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Rafael Rodrigues</h1>
+![Profile Views](https://profile-counter.glitch.me/rafael-rodrigues01/count.svg)
+
 
 <p>I always like to give my best in everything I do, so feel free to give feedback on improvements to my projects, because I'm still starting as a developer and one day I will become an excellent professional in this area that I love much that is technology.</p>
 
