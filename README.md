@@ -1,5 +1,10 @@
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Rafael Rodrigues</h1>
+<h1 align="center">
+Hi, I'm Rafael Rodrigues!
+	<a href="https://github.com/rafael-rodrigues01" target="_self">
+		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+	</a>
+</h1>
 <img src="https://profile-counter.glitch.me/rafael-rodrigues01/count.svg">
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
