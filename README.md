@@ -11,7 +11,7 @@ Hi, I'm Rafael Rodrigues!
 
 
 
-<p>I always like to give my best in everything I do, so feel free to give feedback on improvements to my projects, because I'm still starting as a developer and one day I will become an excellent professional in this area that I love much that is technology.</p>
+<p>Hello, I'm Rafael Rodrigues, a first-year Systems Analysis and Development student at Unifatecie. I'm embarking on the journey of being a Full-Stack developer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and I'm passionate about continuous improvement. I am determined to improve my skills and look forward to opportunities to show what I can do. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"></p>
 
 <div>
   <a href="https://github.com/rafael-rodrigues01">
