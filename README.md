@@ -11,7 +11,7 @@ Hi, I'm Rafael Rodrigues!
 
 
 
-<p>Hello, I'm Rafael Rodrigues, a first-year Systems Analysis and Development student at Unifatecie. I'm embarking on the journey of being a Full-Stack developer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and I'm passionate about continuous improvement. I am determined to improve my skills and look forward to opportunities to show what I can do. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"></p>
+<p>Hello, I'm Rafael Rodrigues, a first-year Systems Analysis and Development student at SENAI Gaspar Ricardo Júnior School and Faculty of Technology. I'm embarking on the journey of being a Full-Stack developer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and I'm passionate about continuous improvement. I am determined to improve my skills and look forward to opportunities to show what I can do. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"></p>
 
 <div>
   <a href="https://github.com/rafael-rodrigues01">
