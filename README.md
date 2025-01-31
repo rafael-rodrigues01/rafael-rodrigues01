@@ -89,11 +89,15 @@ Hi, I'm Rafael Rodrigues!
  
   ## 🔗 Useful Links
  
-<div> 
- 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafaelrodriguesdev)
- 
- 
+<div align="start">
+  
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafaelrodriguesdev)
+  [![Credly](https://img.shields.io/badge/-Credly-%23FF6C37?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/rafael-rodrigues.88eefc0a)
+  [![Google Cloud Skills Boost](https://img.shields.io/badge/-Google%20Cloud-%234285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/0786b46c-ff94-4034-a318-79b01dec6e4e)
+
+  <br>
+
   ![Snake animation](https://github.com/rafael-rodrigues01/rafael-rodrigues01/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+
